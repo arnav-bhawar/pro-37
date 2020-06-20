@@ -72,12 +72,12 @@ function readData() {
 
 function clearDrawing(){
   //db_draw = [];
-  draw1 = [];
+  //draw1 = [];
  //currentPath= [];
  textSize(50);
- //text("hi",200,200);
+ text("Ma'am, the erase button is not working. ",50,200);
 //var canvas1  = createCanvas(1000,600);
-background(255,0,0);  
+//background(255,0,0);  
 
 
 }
